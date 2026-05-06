@@ -14,6 +14,7 @@
 * The Sopranos
 * The Wire
 * True Detective
+* Godfather of Harlem
 
 ## 🚀 Ficção Científica, Fantasia e Mistério
 * Altered Carbon
