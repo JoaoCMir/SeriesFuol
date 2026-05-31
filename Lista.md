@@ -15,6 +15,7 @@
 * The Wire
 * True Detective
 * Godfather of Harlem
+* Pennyworth 
 
 ## 🚀 Ficção Científica, Fantasia e Mistério
 * Altered Carbon
